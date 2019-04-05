@@ -3,7 +3,7 @@ Graph digitizing python script
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 Here we meet with very simple but necessary solution related to study of graphs.
-**Introducing Gradi**
+##Introducing Gradi
 GUI is yet to exist...
 
 **Let's take a dive how it operates.**
