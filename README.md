@@ -14,12 +14,14 @@ GUI is yet to exist...
   * cvs (python library)
 
 **```2. Setup:```**
+
   **Step 1** Download the script from github.
   **Step 2** Make 2 new folders at same path where the script is present. First named as "plotDataFiles" and second named as "plots".
   **Step 3** Paste the image of graph which has to be digitized into the "graphs" folder.
   **Step 4** Run the script using either IDLE (Text editor come along python) or command line.
 
 **```3. Using:```**
+
   **1.** First of all it will ask the name of graph image with its extension.
   **2.** Now the graph image is open (if not poped up watch it somewhere behind the open windows).
     ***```CAUTION: DO NOT CLICK TWICE ON THE POPED UP IMAGE BEFORE ANSWERING THE INPUT.```***
