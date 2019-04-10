@@ -4,7 +4,7 @@ Graph digitizing python script
 ### ```About```
 This script helps to create a csv file for data points of any graph image provided. Follow the instructions below to use it.
 
-### Introducing Gradi
+### ```Introducing Gradi```
 GUI is yet to exist...
 
 **Let's take a dive how it operates.**
