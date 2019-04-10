@@ -23,7 +23,7 @@ GUI is yet to exist...
   Step 4 Run the script using either IDLE (Text editor come along python) or command line.
 ```
 
-**```3. Using:```**
+**```3. How to use:```**
   1. First of all it will ask the name of graph image with its extension.
   2. Now the graph image is open (if not poped up watch it somewhere behind the open windows).
     ***```CAUTION: DO NOT CLICK TWICE ON THE POPED UP IMAGE BEFORE ANSWERING THE INPUT.```***
