@@ -11,7 +11,7 @@ GUI is yet to exist...
 **```1. Prerequisites:```** 
   * OpenCV (Python library)
   * numpy (Python library)
-  * cvs (python library)
+  * cvs (Python library)
 
 **```2. Setup:```**
 ```
