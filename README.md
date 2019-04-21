@@ -7,7 +7,7 @@ GUI is yet to exist...
 
 ### ```Introducing Gradi```
 
-**Let's take a dive how it works.**
+**Let's take a dive to its working.**
 
 **```1. Prerequisites:```** 
   * OpenCV (Python library)
