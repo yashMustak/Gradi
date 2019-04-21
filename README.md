@@ -12,7 +12,7 @@ GUI is yet to exist...
 **```1. Prerequisites:```** 
   * OpenCV (Python library)
   * numpy (Python library)
-  * cvs (Python library)
+  * csv (Python library)
 
 **```2. Setup:```**
 ```
